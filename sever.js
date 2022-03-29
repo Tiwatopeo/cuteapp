@@ -22,3 +22,6 @@ myapp.get('/', function(req, res) {
    res.sendFile( __dirname);
    res.sendFile(path.join(__dirname + '/school/home/index.html'));
 });
+const portr = process.env.PORT || 3000;
+
+myapp.listen(portr);

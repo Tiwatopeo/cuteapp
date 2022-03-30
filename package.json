@@ -1,0 +1,37 @@
+{
+  "name": "cuteapp",
+  "version": "1.0.0",
+  "description": "local CBT App for school",
+  "main": "sever.js",
+  "dependencies": {
+    "blueimp-file-upload": "^10.32.0",
+    "body": "^5.1.0",
+    "body-parser": "^1.19.2",
+    "cloudinary": "^1.29.0",
+    "express": "^4.17.3",
+    "jqeury": "^0.0.1-security",
+    "jquery": "^3.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "node.js": "^0.0.1-security",
+    "parser": "^0.1.4",
+    "pg": "^8.7.3",
+    "postgresql": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiwatopeo/cuteapp.git"
+  },
+  "keywords": [
+    "cuteapp"
+  ],
+  "author": "tiwatope",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Tiwatopeo/cuteapp/issues"
+  },
+  "homepage": "https://github.com/Tiwatopeo/cuteapp#readme"
+}
